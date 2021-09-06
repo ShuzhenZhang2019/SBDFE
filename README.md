@@ -1,2 +1,2 @@
 # SBDFE
-superpixel Brownian descriptor based feature extraction method for hyperspctral image classification
+superpixel-based Brownian descriptor for hyperspctral image classification
