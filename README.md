@@ -2,7 +2,7 @@
 
   **Please cite the paper if this code is useful for your research.**
   
-  author={Zhang, Shuzhen and Lu, Ting and Li, Shutao and Fu, Wei},
+  author={Zhang, Shuzhen and Lu, Ting and Li, Shutao and Fu, Wei}
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Superpixel-Based Brownian Descriptor for Hyperspectral Image Classification}, 
   year={2022},
